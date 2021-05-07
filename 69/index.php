@@ -1,0 +1,1 @@
+<? require_once '69.php'; echo $link; ?>
