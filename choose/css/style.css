@@ -1,0 +1,146 @@
+/*
+CSS document
+*/
+* {padding: 0; margin: 0;}
+
+body {background: #edece8 url(../images/bg-body.jpg) center top no-repeat;}
+
+.main {
+	  width: 970px;
+      margin: 0 auto;
+	  }
+	 
+.head {
+       height: 250px;	 
+      }
+	 .head h2 {
+		      font: 24px "Century Gothic"; color: #3f282f; 
+			  float: left; margin-top: 10px;
+	          }
+	          .head a {
+				      font: 26px "Century Gothic"; color: #716b5b; 
+					  text-decoration: none; float: right; 
+					  margin: 20px 10px 0 0;
+			          }   
+                      .head a span { 
+					               color: #a73700;
+								   }
+.content-main {background: #f7f7f7; border: 1px solid #fff; overflow: hidden;  
+               border-radius: 15px;
+	           -moz-border-radius: 15px;
+	           -webkit-border-radius: 15px;
+			   behavior: url(http://choose/pie/PIE.htc);
+	           }								   	   
+.menu {
+	   list-style: none; background: #553636; overflow:hidden;
+	   border-radius: 15px 15px 0 0;
+	   -moz-border-radius: 15px 15px 0 0;
+	   -webkit-border-radius: 15px 15px 0 0;
+	   behavior: url(http://choose/pie/PIE.htc);
+	  }
+	  .menu li {
+		        float:left; background: url(images/bg-menu.jpg) left center no-repeat; 
+				padding: 15px 35px;
+			   }
+	  .menu li:first-child {
+		        float:left; background: none; padding: 15px 35px;
+			   }		   
+			   .menu li a {
+				           font: 18px "Century Gothic"; color: #fff; text-decoration:none;
+				          }
+               .menu li a:hover {
+				           font: 18px "Century Gothic"; color: #fff; text-decoration:underline;
+				          }
+        .search-main {float: right; margin: 0 25px 0 0;}       
+		.search-txt {width: 250px; height: 23px; 
+		             margin: 13px 10px 0 0; background: #f7f7f7; 
+					 border: 1px solid #fff; border-radius: 2px; 
+					 -moz-border-radius: 2px; 
+					 -webkit-border-radius: 2px;
+					 behavior: url(http://choose/pie/PIE.htc);
+					 }
+        .search-btn {position: relative; top: 8px;}
+
+.content {
+	      float: left; margin:0 0 0 20px; width: 700px; 
+         }
+         .post-main {background: #f5f5f5;  border-radius: 8px;
+	      -moz-border-radius: 8px;
+	      -webkit-border-radius: 8px;
+		  behavior: url(http://choose/pie/PIE.htc); 
+		  border: 1px solid #e7e2e3; margin: 0 0 20px 0;
+		  }
+		  .post-main h1 {font: 24px Verdana; color:; background: #e2e0e1; 
+		                 border-radius: 8px;
+	                     -moz-border-radius: 8px 8px 0 0;
+	                     -webkit-border-radius: 8px 8px 0 0;
+						 behavior: url(http://choose/pie/PIE.htc); 
+						 padding: 5px 20px 8px 15px; margin: 0 0 5px 0;
+		                 }    
+		                 .post-main h1 a {font: normal 24px Verdana; color:#3f282f; text-decoration: none;} 
+						 .post-main h1 a:hover {font: normal 24px Verdana; color:#3f282f; text-decoration: underline;} 
+						 .post-main h1 span {font: normal 12px Verdana; color: #a29e9e;}
+						 .imgstyle {float: left; margin: 0 15px 15px 0;}
+		  .post {margin: 0 15px 15px 15px;}
+		  		.post p {font: 12px Verdana; color: #000; margin: 0 0 15px 0;}
+				.post a {font: 12px Verdana; color: #3f282f; text-decoration: underline;}
+				.post a:hover {font: 12px Verdana; color: #3f282f; text-decoration: none;}	
+				
+.sidebar {float: right; width: 207px; margin: 0 0 0 20px;}
+         .widget {background: #e7e2e3; border: 1px solid #d7d3d4; 
+		          border-radius: 8px 8px 8px 8px; 
+				  -webkit-border-radius: 8px 8px 8px 8px; 
+				  -moz-border-radius: 8px 8px 8px 8px;
+				  behavior: url(http://choose/pie/PIE.htc);
+				  margin: 0 20px 0 0;
+				  }	
+                 .widget h2 {font: 18px "Century Gothic"; color:#eeeeee; 
+				             background: #3f282f; text-align: center; 
+							 padding: 5px 0; border-radius: 8px 8px 0 0; 
+							 -webkit-border-radius: 8px 8px 0 0; 
+							 -moz-border-radius: 8px 8px 0 0;
+							 behavior: url(http://choose/pie/PIE.htc);
+							 }
+				 .widget ul {list-style:none; padding: 25px 15px;}
+				 			.widget ul li {font-family: "Century Gothic";
+							               border-bottom: 1px solid #795555;
+										   border-top: 1px solid #fff;
+										   padding: 5px 0 5px 20px;
+										   }
+							.widget ul li:first-child {border-top: none;
+										   }
+					        .widget ul li:last-child {border-bottom: none;
+										   }			   		 
+										   .widget ul li a {font: 14px; color: #402323; text-decoration: underline;}
+										   .widget ul li a:hover {font: 14px; color: #402323; text-decoration: none;}
+
+.footer {
+	     overflow: hidden; padding: 30px 0;
+        }
+		.cpy {
+			  float: left;
+			 }
+			.cpy a {
+				  font: 26px "Century Gothic"; color: #716b5b; 
+				  text-decoration: none;  
+				  margin: 20px 10px 0 0;
+				  }   
+				  .cpy a span { 
+							   color: #a73700;
+							   }
+			.cpy p {
+				      font: 14px Verdana; color: #000; margin: 10px 0 0 0;
+					 }
+		.menu-foot {
+			        float: left; margin: 0 105px;
+			       }
+				   .menu-foot h2 {font: 18px "Century Gothic"; color: #402323;}	
+				                 .menu-foot ul {list-style: none;
+								          }
+										  .menu-foot ul li a { 
+										                      font: 14px "Century Gothic"; color: #000; 
+										                     }
+										  .menu-foot ul li a:hover { 
+										                      font: 14px "Century Gothic"; color: #000;
+															  text-decoration: none; 
+										                     }					 		 			   				   										   

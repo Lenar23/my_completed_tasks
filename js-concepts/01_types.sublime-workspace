@@ -1,0 +1,456 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"desription\tabc"
+			],
+			[
+				"float",
+				"float-left\tabc"
+			],
+			[
+				"the_posts",
+				"the_posts_navigation"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail"
+			],
+			[
+				"add_th",
+				"add_theme_support"
+			],
+			[
+				"add",
+				"add_action"
+			],
+			[
+				"inter",
+				"intermediate_image_sizes"
+			],
+			[
+				"get_",
+				"get_footer\t(index.php)"
+			],
+			[
+				"get",
+				"get_header\t(index.php)"
+			],
+			[
+				"the_",
+				"the_permalink\tabc"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"test",
+				"test_sripts\tabc"
+			],
+			[
+				"wp",
+				"wp_enqueue_script\tabc"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_script\tabc"
+			],
+			[
+				"styl",
+				"stylesheet_uri"
+			],
+			[
+				"charset",
+				"charset_collate\tabc"
+			],
+			[
+				"CO",
+				"COLLATE\tabc"
+			],
+			[
+				"wp_coun",
+				"wp_count_posts"
+			],
+			[
+				"get_post",
+				"get_post_format"
+			],
+			[
+				"get_postf",
+				"get_post_field"
+			],
+			[
+				"get_page_b",
+				"get_page_by_title"
+			],
+			[
+				"post",
+				"post_id_7\tabc"
+			],
+			[
+				"th",
+				"theloop\tThe Loop"
+			],
+			[
+				"the",
+				"the_permalink\t(index.php)"
+			],
+			[
+				"wp_reset",
+				"wp_reset_postdata"
+			],
+			[
+				"WP",
+				"WP_Query\tNew WP_Query Class"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"mt",
+				"mt_rand"
+			],
+			[
+				"wp_resert",
+				"wp_reset_query"
+			],
+			[
+				"reg",
+				"register_post_type\tRegister Post Type All Options"
+			],
+			[
+				"template",
+				"template_url\t(header.php)"
+			],
+			[
+				"page",
+				"page-title\t(style.css)"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"esc",
+				"esc_url"
+			],
+			[
+				"wp_list",
+				"wp_list_categories"
+			],
+			[
+				"dy",
+				"dynamic_sidebar"
+			],
+			[
+				"register_wi",
+				"register_sidebar_widget"
+			],
+			[
+				"register_n",
+				"register_nav_menu"
+			],
+			[
+				"wp_enque",
+				"wp_enqueue_style"
+			],
+			[
+				"j",
+				"jquery00.js\t(header.php)"
+			],
+			[
+				"get_template",
+				"get_template_directory_uri"
+			],
+			[
+				"add_",
+				"add_action"
+			],
+			[
+				"blog",
+				"bloginfo"
+			],
+			[
+				"r",
+				"row\tabc"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"b",
+				"bootstrap\tabc"
+			],
+			[
+				"boo",
+				"bootstrap.min.css\t(index.html)"
+			],
+			[
+				"do",
+				"document.write\tabc"
+			],
+			[
+				"v",
+				"value\tabc"
+			],
+			[
+				"doc",
+				"document\tabc"
+			],
+			[
+				"new",
+				"newColor\tabc"
+			],
+			[
+				"docu",
+				"document.write\tabc"
+			],
+			[
+				"onclic",
+				"onclick\tAttr"
+			],
+			[
+				"first",
+				"firstName\tabc"
+			],
+			[
+				"con",
+				"console.log\tabc"
+			],
+			[
+				"ti",
+				"title\tabc"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"word",
+				"Snippet: WordPress File Header"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Arithmetic"
+			],
+			[
+				"PackageResourceViewer: Open Resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 161.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/OSPanel/domains/wp1.loc/wp-content/themes/test/footer.php",
+		"/D/OSPanel/domains/wp1.loc/wp-content/themes/test/header.php",
+		"/D/OSPanel/domains/wp1.loc/wp-content/themes/test/style.css",
+		"/D/OSPanel/domains/wp1.loc/wp-content/themes/test/single.php",
+		"/D/OSPanel/domains/wp1.loc/wp-content/themes/test/index.php",
+		"/D/OSPanel/domains/wp1.loc/wp-content/themes/test/css.php",
+		"/D/OSPanel/domains/wp1.loc/wp-content/themes/test/assets/footer.php",
+		"/D/OSPanel/domains/sandwel.ru/wp-content/themes/storefront/inc/class-storefront.php",
+		"/D/OSPanel/domains/sandwel.ru/wp-content/themes/storefront/functions.php",
+		"/D/OSPanel/domains/travel/wp-content/themes/travel/header.php",
+		"/D/OSPanel/domains/travel/wp-content/themes/travel/footer.php",
+		"/D/OSPanel/domains/travel/wp-content/themes/travel/style.css",
+		"/D/OSPanel/domains/travel/wp-content/themes/travel/functions.php",
+		"/D/OSPanel/domains/travel/wp-content/themes/travel/index.php",
+		"/D/OSPanel/domains/travel/wp-content/themes/travel/tag.php",
+		"/D/OSPanel/domains/travel/wp-content/themes/travel/search.php",
+		"/D/OSPanel/domains/travel/wp-content/themes/travel/category.php",
+		"/D/OSPanel/domains/travel/wp-content/themes/travel/sidebar.php",
+		"/D/OSPanel/domains/travel/wp-content/themes/travel/404.php",
+		"/D/OSPanel/domains/travel/.htaccess",
+		"/D/OSPanel/domains/travel/wp-content/themes/travel/single.php",
+		"/D/OSPanel/domains/travel/wp-content/themes/travel/page.php",
+		"/D/OSPanel/domains/mysite.ru/wp-content/themes/choose/css/style.css",
+		"/D/OSPanel/domains/mysite.ru/wp-content/themes/choose/css/default0.css",
+		"/D/OSPanel/domains/choose/index.html",
+		"/D/OSPanel/domains/choose/style.css",
+		"/D/OSPanel/domains/mysite.ru/wp-content/themes/mytheme/header.php",
+		"/D/OSPanel/domains/mysite.ru/wp-content/themes/mytheme/index.php",
+		"/D/OSPanel/domains/mysite.ru/wp-content/themes/mytheme/style.css",
+		"/D/OSPanel/domains/localhost/bootstrap/bootstrap 4/index.html",
+		"/D/OSPanel/domains/localhost/javascript/index.html",
+		"/D/OSPanel/domains/localhost/javascript/javascript.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "01_types.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 352.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
