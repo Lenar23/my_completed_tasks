@@ -1,0 +1,86 @@
+body, ul, p, li, h1, h2, h3, h4, h4{
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper {
+    border: 1px solid black;
+    width: 1000px;
+    margin: 0px auto;
+}
+
+#header {
+	min-height: 200px;
+	position: relative;
+	border-bottom: 1px solid black;
+}
+
+#top-menu {
+	top: 40px;
+	left: 200px;
+	position: absolute;
+	border: 1px solid black;
+}
+	#top-menu li{
+		float: left;
+		list-style-type: none;
+	}
+	#top-menu a:link, #top-menu a:visited {
+		color: blue;
+		text-decoration: none;
+		line-height: 30px;
+		padding: 0px 10px;
+		
+	}
+	#top-menu a:hover, #top-menu a.active {
+		color: red;
+		text-decoration: underline;
+	}
+	
+#logo {
+	top: 10px;
+	left: 0px;
+	position: absolute;
+	
+}	
+	#logo img {
+		width: 200px;
+	}
+#sitename {
+	top: 10px;
+	left: 200px;
+	position: absolute;
+	font-size: 19px;
+	font-weight: bold;
+}
+#left, #right {
+   /*  outline: 1px solid black; */
+    width: 200px;
+   
+}
+#left{
+    float: left;
+}
+#right{
+    float: right;
+}
+#content {
+    border: 1px solid black;
+    margin: 0px 200px;
+	padding: 0px 20px;
+}
+	#content h1 {
+		
+	}
+	#content p {
+		margin: 10px 0px;
+		text-align: justify;
+	}
+#footer {
+	border: 1px solid black;
+	padding-top: 180px;
+	text-align: center;
+	font-weight: bold;
+}
+.clearfix{
+    clear: both;
+}
